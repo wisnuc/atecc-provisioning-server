@@ -1,0 +1,23 @@
+{
+  "name": "atecc-provisioning-server",
+  "version": "0.1.0",
+  "description": "a provisioning server for atecc, linux device, and aws iot cloud.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wisnuc/atecc-provisioning-server.git"
+  },
+  "keywords": [
+    "atecc",
+    "provisioning"
+  ],
+  "author": "matianfu@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wisnuc/atecc-provisioning-server/issues"
+  },
+  "homepage": "https://github.com/wisnuc/atecc-provisioning-server#readme"
+}
